@@ -1,0 +1,5 @@
+PORT:
+Deverás saber o que é Instant Payment Notifications (IPN) e como funciona com o PayPal, depois terás de configurar o ficheiro ipn.php com o teu e-mail de receptor (l.99) e informações da tua base de dados (l.117). As verificações básicas dos $_POST já estão pré configurados, apenas altere o mc_gross, mc_curreny e verifique se tens a tabela 'orders' instalada. Quando estiveres pronto para ir ao vivo, altere $listener->use_sandbox para false.
+
+ENG:
+You should know what is Instant Payment Notifications (IPN) and how it works with PayPal, then you have to configure the ipn.php file with you´re receiver email (l.99) and database information (l.117). The basic $_POST checks are already configured, just change the mc_gross, mc_currency and make sure you have the orders table installed. When you are ready to go live, change $listener->use_sandbox to false.
