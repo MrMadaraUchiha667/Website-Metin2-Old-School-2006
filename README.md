@@ -1,6 +1,6 @@
 # Website Metin2 Old School 2006
 
-<img src="https://i.imgur.com/riayHWy.png" width="100%">
+<img src="https://i.imgur.com/riayHWy.png" width="80%">
 
 Website desenvolvido para servidores privados de Metin2 com foco na experiência clássica Old School 2006.
 
