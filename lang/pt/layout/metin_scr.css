@@ -1,0 +1,117 @@
+#topmenu #home {
+    width: 80px;
+    background-image: url(../../../lang/pt/layout/images/button_home_up.gif);
+}
+#topmenu #home:hover {
+    background-image: url(../../../lang/pt/layout/images/button_home_over.gif);
+}
+#topmenu #game {
+    width: 83px;
+    background-image: url(../../../lang/pt/layout/images/button_game_up.gif);
+}
+#topmenu #game:hover {
+    background-image: url(../../../lang/pt/layout/images/button_game_over.gif);
+}
+#topmenu #gallery {
+    width: 93px;
+    background-image: url(../../../lang/pt/layout/images/button_gallery_up.gif);
+}
+#topmenu #gallery:hover {
+    background-image: url(../../../lang/pt/layout/images/button_gallery_over.gif);
+}
+#topmenu #play {
+    width: 73px;
+    background-image: url(../../../lang/pt/layout/images/button_play_up.gif);
+}
+#topmenu #play:hover {
+    background-image: url(../../../lang/pt/layout/images/button_play_over.gif);
+}
+#topmenu #community {
+    width: 139px;
+    background-image: url(../../../lang/pt/layout/images/button_community_up.gif);
+}
+#topmenu #community:hover {
+    background-image: url(../../../lang/pt/layout/images/button_community_over.gif);
+}
+#topmenu #itemshop {
+    float: right;
+    width: 250px;
+    background-image: url(../../../lang/pt/layout/images/button_shop_up.jpg);
+}
+#topmenu #itemshop:hover {
+    background-image: url(../../../lang/pt/layout/images/button_shop_over.jpg);
+}
+#page_home #topmenu #home {
+    background-image: url(../../../lang/pt/layout/images/button_home_down.gif);
+}
+#page_game #topmenu #game {
+    background-image: url(../../../lang/pt/layout/images/button_game_down.gif);
+}
+#page_gallery #topmenu #gallery {
+    background-image: url(../../../lang/pt/layout/images/button_gallery_down.gif);
+}
+#page_play #topmenu #play {
+    background-image: url(../../../lang/pt/layout/images/button_play_down.gif);
+}
+#page_community #topmenu #community {
+    background-image: url(../../../lang/pt/layout/images/button_community_down.gif);
+}
+#page_shop #topmenu #itemshop {
+    background-image: url(../../../lang/pt/layout/images/button_shop_down.jpg);
+}
+.downloadnplay {
+    width: 400px;
+    height: 150px;
+    float: left;
+    margin: 0;
+    background-image: url(../../../lang/pt/layout/images/playfree_pt.gif);
+}
+.downloadnplay:hover {
+    background-image: url(../../../lang/pt/layout/images/playfree_pt.gif);
+}
+.downloadnplay strong {
+    display: none;
+    visibility: hidden;
+}
+.getspielpass {
+    width: 174px;
+    height: 54px;
+    float: left;
+    margin: 0;
+    background-image: url(../../../lang/pt/layout/images/spielpass_up.gif);
+}
+.getspielpass:hover {
+    background-image: url(../../../lang/pt/layout/images/spielpass_over.gif);
+}
+.getspielpass strong {
+    display: none;
+    visibility: hidden;
+}
+.getspielpass_acc {
+    display: block;
+    width: 174px;
+    height: 54px;
+    margin: 0;
+    background-image: url(../../../lang/pt/content/spielpass_up.gif);
+}
+.getspielpass_acc:hover {
+    background-image: url(../../../lang/pt/layout/images/spielpass_over.gif);
+}
+.getspielpass_acc strong {
+    display: none;
+    visibility: hidden;
+}
+#preloadedImages {
+    width: 0;
+    height: 0;
+    background-image: url(../../../lang/pt/layout/images/button_home_over.gif);
+    background-image: url(../../../lang/pt/layout/images/button_game_over.gif);
+    background-image: url(../../../lang/pt/layout/images/button_gallery_over.gif);
+    background-image: url(../../../lang/pt/layout/images/button_play_over.gif);
+    background-image: url(../../../lang/pt/layout/images/button_community_over.gif);
+    background-image: url(../../../lang/pt/layout/images/button_shop_over.jpg);
+    background-image: url(../../../lang/pt/layout/images/button_buy_over.gif);
+    background-image: url(../../../lang/pt/layout/images/button_gift_over.gif);
+    background-image: url(../../../lang/pt/layout/images/spielpass_over.gif);
+    background-image: url(../../../lang/pt/layout/images/download_over.gif);
+}
